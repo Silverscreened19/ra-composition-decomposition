@@ -1,0 +1,35 @@
+.news_header {
+  display: flex;
+}
+
+.news_section {
+  margin-right: 10px;
+  text-decoration: none;
+  color: rgb(127,165,218);
+}
+
+.currencies {
+  list-style: none;
+  display: flex;
+}
+
+.currency_code {
+  padding-right: 10px;
+  font-weight: 600;
+}
+
+.currency_value {
+  padding-right: 10px;
+}
+
+.currency_diff {
+  padding-right: 10px;
+  color: rgb(172, 171, 171);
+  margin-right: 10px;
+}
+
+.news_date {
+    color: rgb(172, 171, 171);
+    font-size: small;
+    margin-top: 3px;
+  }
